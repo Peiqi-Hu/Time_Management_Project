@@ -1,7 +1,7 @@
 # Time_Management_Project
 
 
-'''
+
 Function:
 1) Calendar - show calendar/ show today's date - done in python draft version
 2) Dairy record - create file and write file - done in python draft version
@@ -13,4 +13,4 @@ Next:
  - better interface
  
 
-'''
+
